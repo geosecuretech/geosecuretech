@@ -1,6 +1,6 @@
 # GeoSecureTech Website
 
-This repository (`git@github.com:geosecuretech/geosecuretech.git`) contains the **build and source code** for the GeoSecureTech website.
+This repository (`git@github.com:geosecuretech/geosecuretech.git`) it contains the **build and source code** for the GeoSecureTech website.
 
 ⚡ **Deployment & Hosting**  
 - The website is hosted on [Netlify](https://app.netlify.com/projects/geosecuretech/overview).  
